@@ -1,4 +1,4 @@
-### Hi there 👋
+### 響け！ユーフォニアム
 
 <!--
 **yz1509/yz1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=yz1509&show_icons=true&count_private=true&hide=stars)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1509&hide=html,css,tsql&layout=compact&langs_count=9)
