@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=yz1509&show_icons=true&count_private=true&hide=stars)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1509&hide=html,css,tsql&layout=compact&langs_count=9)
+
+📊 **Weekly fish time**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kumiko&hide_title=true&hide_border=true&langs_count=5)
