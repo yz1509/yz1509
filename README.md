@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yz1509&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1509&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **Weekly fish time**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kumiko&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kumiko&hide_title=true&hide_border=true&langs_count=7)
